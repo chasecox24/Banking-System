@@ -1,7 +1,7 @@
 // BankingSystem.cpp : This file contains the 'main' function. Program execution begins and ends there.
 //
-// Chase Cox ( A00632215)
-// ITSE - 1302
+// 
+// 
 /*
 This program allows its user to make a check if the balance is greater than or equal to it and then shows current balance,
 Allows users to deposit money into thier account and displays the total balance.
